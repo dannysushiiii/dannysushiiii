@@ -15,6 +15,9 @@ He/Him
 
 ⚡ Fun fact ...
 I love everything cozy! Let it be my place, games, music, or food and drinks.
+
+You can view my personalized GitHub profile
+[here](https://github.com/dannysushiiii).
 <!--
 **dannysushiiii/dannysushiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
