@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/1d06501c-d860-445b-b194-cbc3b501f426" width="200" height="200" alt="Ahmad Irfan Danial bin Shuhaimi">
+</div>
+
 Hi! I'm Ahmad Irfan Danial bin Shuhaimi, a final-year Software Engineering student, and I'm taking the WIF3005 Software Maintenance and Evolution course as an elective for my last semester.
 
 🤔 My expectations on this course ...
@@ -10,7 +14,7 @@ Personal Knowledge Management Website for Educators, EduManage, which is my Fina
 He/Him
 
 ⚡ Fun fact ...
-I love cozy games with a passion, and I love the creative and personalization elements in games like Stardew Valley and PT.
+I love everything cozy! Let it be my place, games, music, or food and drinks.
 <!--
 **dannysushiiii/dannysushiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
