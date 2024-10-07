@@ -1,5 +1,16 @@
-## Hi there 👋
+Hi! I'm Ahmad Irfan Danial bin Shuhaimi, a final-year Software Engineering student, and I'm taking the WIF3005 Software Maintenance and Evolution course as an elective for my last semester.
 
+🤔 My expectations on this course ...
+I’m really looking forward to learning more about the ins and outs of software maintenance and evolution in this course. I want to understand the challenges developers face when keeping software up-to-date and relevant, and how to do it effectively. I’m also curious about the impact of software changes on users and businesses.
+
+🔭 I’m currently working on ...
+Personal Knowledge Management Website for Educators, EduManage, which is my Final Year Project. My goal is to make a website that's user-friendly for educators to address their unique needs and streamline their workflows.
+
+😄 Pronouns ...
+He/Him
+
+⚡ Fun fact ...
+I love cozy games with a passion, and I love the creative and personalization elements in games like Stardew Valley and PT.
 <!--
 **dannysushiiii/dannysushiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
