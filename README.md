@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/1d06501c-d860-445b-b194-cbc3b501f426" width="200" height="200" alt="Ahmad Irfan Danial bin Shuhaimi">
-</div>
+<img src="https://github.com/user-attachments/assets/1d06501c-d860-445b-b194-cbc3b501f426" width="200" height="200">
 
 Hi! I'm Ahmad Irfan Danial bin Shuhaimi, a final-year Software Engineering student, and I'm taking the WIF3005 Software Maintenance and Evolution course as an elective for my last semester.
 
